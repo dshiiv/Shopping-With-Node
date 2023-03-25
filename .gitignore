@@ -1,0 +1,9 @@
+// npm start will start the server as node app.js did
+// npm run start-server start the server as node app.js used to do
+
+
+node_modules
+
+.env
+
+nodemon.json

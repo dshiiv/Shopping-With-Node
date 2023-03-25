@@ -1,0 +1,19 @@
+/* .login-form {
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+    display: block;
+  } */
+  
+  .login-form {
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aqua;
+    margin-top: 12.6%;
+  }
+  
